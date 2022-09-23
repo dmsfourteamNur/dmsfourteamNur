@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**dmsfourteamNur/dmsfourteamNur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
 ## Apigateway
 https://nurfourteamapigateway.azurewebsites.net/api/aeronave
