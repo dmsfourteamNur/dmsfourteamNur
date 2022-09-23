@@ -4,18 +4,15 @@
 **dmsfourteamNur/dmsfourteamNur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Apigateway
-
 https://nurfourteamapigateway.azurewebsites.net/api/aeronave
 https://nurfourteamapigateway.azurewebsites.net/api/tripulacion
 https://nurfourteamapigateway.azurewebsites.net/api/vuelo
 https://nurfourteamapigateway.azurewebsites.net/api/venta
 https://nurfourteamapigateway.azurewebsites.net/api/checkin
 
-
 ## Aggregates
 https://nurfourteamapigateway.azurewebsites.net/api/vuelo-aeronave
 https://nurfourteamapigateway.azurewebsites.net/api/vuelo-tripulacion
-
 
 ## jwt
 https://jwtnurfourteam.azurewebsites.net/api/token/admin/1234
