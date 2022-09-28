@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Apigateway
 
 * https://nurfourteamapigateway.azurewebsites.net/api/aeronave
@@ -25,8 +23,8 @@
 ## Produccion
 
 * http://159.223.109.162/api/aeronave
-* http://143.198.167.107/api/tripulacion
 * http://143.198.167.107/api/tripulante
+* http://67.205.155.238/api/vuelo
 * http://137.184.213.186/api/venta
 * http://159.223.125.246/api/checkin
 
@@ -34,12 +32,10 @@
 
 * https://github.com/dmsfourteamNur/ApiGateway
 * https://github.com/dmsfourteamNur/jwt
-
 * https://github.com/dmsfourteamNur/aeronave
 * https://github.com/dmsfourteamNur/Tripulante
 * https://github.com/dmsfourteamNur/Vuelo
 * https://github.com/dmsfourteamNur/Venta
 * https://github.com/dmsfourteamNur/CkeckIn
-
 * https://github.com/dmsfourteamNur/SharedKern
 * https://github.com/dmsfourteamNur/Fourteam
