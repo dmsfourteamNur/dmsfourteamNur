@@ -39,3 +39,39 @@
 * https://github.com/dmsfourteamNur/CkeckIn
 * https://github.com/dmsfourteamNur/SharedKern
 * https://github.com/dmsfourteamNur/Fourteam
+## Integrantes
+
+<table>
+  <tr>
+    <td align="center" style="width: 60px;">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/113657060?v=4" style="width: 40px;"><br>
+        <sub>four</sub>
+      </a>
+    </td>
+    <td align="center" style="width: 60px;">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/35882906?v=4" style="width: 40px;"><br>
+        <sub>Ricardo</sub>
+      </a>
+    </td>
+    <td align="center" style="width: 60px;">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/61075383?v=4" style="width: 40px;"><br>
+        <sub>Alvaro</sub>
+      </a>
+    </td>
+    <td align="center" style="width: 60px;">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/72888760?v=4;"style="width: 40px;"><br>
+        <sub>Liceth</sub>
+      </a>
+    </td>
+    <td align="center" style="width: 60px;">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/37853995?v=4;" style="width: 40px;"><br>
+        <sub>edson</sub>
+      </a>
+    </td>
+  </tr>
+</table>
